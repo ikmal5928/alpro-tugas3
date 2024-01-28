@@ -1,2 +1,3 @@
 # alpro-tugas3
-NAMA:
+NAMA:OKTAVIAN IKMAL S
+NIM :I.2310509
